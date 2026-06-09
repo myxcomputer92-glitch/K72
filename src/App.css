@@ -8,3 +8,7 @@ html,body{
     padding-left: 2rem;
     list-style-type:disc;
 }
+.Special-case2{
+    /* padding-left: 0.1px; */
+    list-style-type:disc;
+}
