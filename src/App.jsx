@@ -13,10 +13,10 @@ function App() {
   return (
     <>
     <Home/>
-    {/* <Footer/> */}
-    {/* <Project/> */}
-    {/* <Contact/> */}
-    {/* <Blogue/> */}
+    <Footer/>
+    <Project/>
+    <Contact/>
+    <Blogue/>
     <Agence/>
     </>
   )

@@ -4,7 +4,7 @@ import Links_Images from '../Components/Blogue/Links_Images'
 
 const Blogue = () => {
   return (
-    <div className='w-full h-screen'>
+    <div className='w-full h-auto'>
       <Simple_Text/>
       <hr className='text-black w-full mt-15' />
       <Links_Images/>
